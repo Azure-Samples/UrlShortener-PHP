@@ -1,3 +1,9 @@
+---
+services:
+platforms:
+author: azure
+---
+
 # URL Shortener - PHP Website
 The URL Shortener is a PHP website made to demonstrate how to create a simple web service layer using Windows Azure Websites, MySQL, and PHP.  This sample consists of a simple web front end which can display all of the URLs that have been shortened.  There are several web end points which can be consumed by other clients in order to view and add new shortened URLs.  
 
